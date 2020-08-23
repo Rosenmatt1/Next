@@ -1,0 +1,1 @@
+{"ast":null,"code":"class Prices extends React.component {}","map":{"version":3,"sources":["/home/mateo/Desktop/Next/components/Prices.js"],"names":["Prices","React","component"],"mappings":"AAAA,MAAMA,MAAN,SAAqBC,KAAK,CAACC,SAA3B,CAAqC","sourcesContent":["class Prices extends React.component {\n    \n}"]},"metadata":{},"sourceType":"script"}
